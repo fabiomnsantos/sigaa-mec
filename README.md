@@ -301,4 +301,11 @@ PDFs finais para MEC
 Prof. Fábio Novaes
 UABJ / UFRPE
 
-Com auxílio do chatGPT 5.3 - Open AI
+## Observação
+
+Este projeto foi desenvolvido com auxílio do ChatGPT (OpenAI) para geração e refinamento de partes do código, 
+documentação e automação de tarefas. Todo o código foi revisado, adaptado e validado pelo autor antes de sua utilização.
+
+## Licença
+
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.

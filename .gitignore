@@ -1,5 +1,28 @@
+# Credenciais
 .env
-scripts_teste/
-Relatorios/*
-turmas_passadas_sigaa/*
+
+# Downloads do SIGAA
 downloads_sigaa/
+
+# Relatórios gerados
+Relatorios/
+
+# Organização dos PDFs
+turmas_passadas_sigaa/
+
+# Scripts de teste
+scripts_teste/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Ambiente virtual
+venv/
+.venv/
